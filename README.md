@@ -1,6 +1,10 @@
 # cover-page-design:
+# AIM:
+To design a cover page.
 
+output:
 ![output](iron.png)
+
 
 # Code:
 ## HTML:
@@ -92,3 +96,5 @@ footer{
     padding-right:60px;
   }
 ```
+# RESULT:
+Thus a Web page is designed to show cover page.
